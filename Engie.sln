@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngieCodeChallenge.Tests", "EngieCodeChallenge.Tests\EngieCodeChallenge.Tests.csproj", "{84441817-1ADE-426A-9CF8-1FAD5FA14749}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngieCodeChallenge", "EngieCodeChallenge\EngieCodeChallenge.csproj", "{04A50DC9-3DF1-4236-81A1-DB28682D646A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84441817-1ADE-426A-9CF8-1FAD5FA14749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84441817-1ADE-426A-9CF8-1FAD5FA14749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84441817-1ADE-426A-9CF8-1FAD5FA14749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84441817-1ADE-426A-9CF8-1FAD5FA14749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A50DC9-3DF1-4236-81A1-DB28682D646A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A50DC9-3DF1-4236-81A1-DB28682D646A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A50DC9-3DF1-4236-81A1-DB28682D646A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A50DC9-3DF1-4236-81A1-DB28682D646A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9AC9383-ABDD-463C-8C45-A0C7228EC364}
+	EndGlobalSection
+EndGlobal
